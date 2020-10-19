@@ -88,6 +88,10 @@ footer a {
   color: hotpink;
 }
 
+footer a:hover {
+  color: hotpink;
+}
+
 /* For small screens responsiveness */
 /* Media Queries */
 
